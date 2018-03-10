@@ -1,2 +1,2 @@
-# strtup
+# strtup.io
 strtup.io
