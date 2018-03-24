@@ -7,3 +7,4 @@ var title = $('.title');
 tile.mouseenter(function(){
 	title.toggleClass('red')
 });
+
